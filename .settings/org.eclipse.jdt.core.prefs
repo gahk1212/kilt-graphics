@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+org.eclipse.jdt.core.classpath.outputOverlappingAnotherSource=ignore
+>>>>>>> 0cc6f1610bcf22cf58914d124e63a254980054fd
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
 org.eclipse.jdt.core.compiler.compliance=17
 org.eclipse.jdt.core.compiler.problem.enablePreviewFeatures=disabled
